@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/bahe-msft/fips-check"
+	"github.com/everjing/fips-check"
 )
 
 func main() {

@@ -11,8 +11,8 @@ import (
 
 	"github.com/golang-fips/openssl/v2"
 
-	"github.com/bahe-msft/fips-check/internal/binarychecker"
-	_ "github.com/bahe-msft/fips-check/internal/opensslsetup"
+	"github.com/everjing/fips-check/internal/binarychecker"
+	_ "github.com/everjing/fips-check/internal/opensslsetup"
 )
 
 func main() {
