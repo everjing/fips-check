@@ -1,4 +1,4 @@
-module github.com/bahe-msft/fips-check
+module github.com/everjing/fips-check
 
 go 1.24.4
 
