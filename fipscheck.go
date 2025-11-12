@@ -8,8 +8,8 @@ package fipscheck
 import (
 	"context"
 
-	"github.com/bahe-msft/fips-check/internal/binarychecker"
-	_ "github.com/bahe-msft/fips-check/internal/opensslsetup" // Initialize OpenSSL
+	"github.com/everjing/fips-check/internal/binarychecker"
+	_ "github.com/everjing/fips-check/internal/opensslsetup" // Initialize OpenSSL
 	"github.com/golang-fips/openssl/v2"
 )
 
